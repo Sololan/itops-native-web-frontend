@@ -1,0 +1,107 @@
+{
+  "id": "1654825",
+  "name": "itops",
+  "font_family": "libfont",
+  "css_prefix_text": "lib-",
+  "description": "智能运维-监控状态图标库",
+  "glyphs": [
+    {
+      "icon_id": "13520909",
+      "name": "memory-no",
+      "font_class": "memory-no",
+      "unicode": "e69a",
+      "unicode_decimal": 59034
+    },
+    {
+      "icon_id": "13520910",
+      "name": "memory-ok",
+      "font_class": "memory-ok",
+      "unicode": "e69b",
+      "unicode_decimal": 59035
+    },
+    {
+      "icon_id": "13520810",
+      "name": "raid-no",
+      "font_class": "raid-no",
+      "unicode": "e68f",
+      "unicode_decimal": 59023
+    },
+    {
+      "icon_id": "13520811",
+      "name": "network-ok",
+      "font_class": "network-ok",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    },
+    {
+      "icon_id": "13520812",
+      "name": "fan-ok",
+      "font_class": "fan-ok",
+      "unicode": "e691",
+      "unicode_decimal": 59025
+    },
+    {
+      "icon_id": "13520813",
+      "name": "harddisk-ok",
+      "font_class": "harddisk-ok",
+      "unicode": "e692",
+      "unicode_decimal": 59026
+    },
+    {
+      "icon_id": "13520814",
+      "name": "network-no",
+      "font_class": "network-no",
+      "unicode": "e693",
+      "unicode_decimal": 59027
+    },
+    {
+      "icon_id": "13520815",
+      "name": "fan-no",
+      "font_class": "fan-no",
+      "unicode": "e694",
+      "unicode_decimal": 59028
+    },
+    {
+      "icon_id": "13520816",
+      "name": "cpu-no",
+      "font_class": "cpu-no",
+      "unicode": "e695",
+      "unicode_decimal": 59029
+    },
+    {
+      "icon_id": "13520817",
+      "name": "harddisk-no",
+      "font_class": "harddisk-no",
+      "unicode": "e696",
+      "unicode_decimal": 59030
+    },
+    {
+      "icon_id": "13520818",
+      "name": "power-no",
+      "font_class": "power-no",
+      "unicode": "e697",
+      "unicode_decimal": 59031
+    },
+    {
+      "icon_id": "13520819",
+      "name": "cpu-ok",
+      "font_class": "cpu-ok",
+      "unicode": "e698",
+      "unicode_decimal": 59032
+    },
+    {
+      "icon_id": "13520820",
+      "name": "raid-ok",
+      "font_class": "raid-ok",
+      "unicode": "e699",
+      "unicode_decimal": 59033
+    },
+    {
+      "icon_id": "13148906",
+      "name": "power-ok",
+      "font_class": "power-ok",
+      "unicode": "e68c",
+      "unicode_decimal": 59020
+    }
+  ]
+}
